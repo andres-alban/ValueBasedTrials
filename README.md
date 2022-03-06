@@ -1,8 +1,8 @@
 # ValueBasedTrials
 
 This repository provides the code to replicate the results in 
-1. Alban A, Chick SE, Foster M, *Value-based Clinical Trials: Selecting Recruitment Rates and Trial Lengths in Different Regulatory Contexts*. August 2021. INSEAD Working Paper No. 2021/46/TOM, Available at SSRN: https://ssrn.com/abstract=3914670
-2. Forster M, Brealey S, Chick S, et al., *Cost-effective clinical trial design: Application of a Bayesian sequential model to the ProFHER pragmatic trial*. Clinical Trials. 2021;18(6):647-656. [doi:10.1177/17407745211032909](https://journals.sagepub.com/doi/10.1177/17407745211032909)
+1. Alban A, Chick SE, Foster M (2022) *Value-based Clinical Trials: Selecting Recruitment Rates and Trial Lengths in Different Regulatory Contexts*. Management Science, accepted to appear. (Working paper at https://ssrn.com/abstract=3914670)
+2. Forster M, Brealey S, Chick SE, et al. (2021) *Cost-effective clinical trial design: Application of a Bayesian sequential model to the ProFHER pragmatic trial*. Clinical Trials 18(6):647-656. [doi:10.1177/17407745211032909](https://journals.sagepub.com/doi/10.1177/17407745211032909)
 
 ## Installation
 The code is written in MATLAB and has been tested in versions 2019a and 2020b. It requires the optimization and statistics and machine learning toolboxes.
